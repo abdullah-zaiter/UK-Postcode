@@ -1,7 +1,9 @@
 # UK Postcode
 This program supports validating and formatting post codes for UK. 
 For more details, check: https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom#Formatting  
-This program comes with pilot script to run from command line, you can also use the library in your code by importing either one of the classes Validator, Formatter or Postcode.
+
+A pilot script (script.py) is provided in order to demonstrate in a simple manner the usage of the formatter, validator.  
+Also the tests provided help in the understanding of the usage, in case you want to use the library on your project.    
 
 ### Setup
 It is recommended to create a venv to run the project.  
