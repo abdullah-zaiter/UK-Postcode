@@ -5,6 +5,8 @@ For more details, check: https://en.wikipedia.org/wiki/Postcodes_in_the_United_K
 A pilot script (script.py) is provided in order to demonstrate in a simple manner the usage of the formatter, validator.  
 Also the tests provided help in the understanding of the usage, in case you want to use the library on your project.    
 
+A pipeline on github actions was added.
+
 ### Setup
 It is recommended to create a venv to run the project.  
 To do that, please execute the following commands:  
