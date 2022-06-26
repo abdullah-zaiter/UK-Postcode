@@ -1,5 +1,5 @@
 import re
-from .postcode import Postcode
+from postcode.postcode import Postcode
 
 
 class Formatter:
