@@ -1,4 +1,4 @@
-from ex2.postcode.validator import Validator
+from postcode.validator import Validator
 
 
 def test_validate_postcode():
